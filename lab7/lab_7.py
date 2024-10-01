@@ -18,7 +18,7 @@ def add_worker(workers):
     if key in workers:
         print(f"Name '{key}' is already exists")
     else:
-        workers[key] = {"salary": input("Input salary: "), "sex": input("Input sex: ")}
+        workers[key] = {"salary": int(input("Input salary: ")), "sex": input("Input sex: ")}
         print(f"Added worker {key}")
         print_workers(workers)
 
