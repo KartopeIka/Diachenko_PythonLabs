@@ -1,0 +1,16 @@
+{
+    "Min salary worker": {
+        "Oleh Vinnik": {
+            "salary": 10000,
+            "position": "Singe",
+            "sex": "male"
+        }
+    },
+    "Max salary worker": {
+        "Nightmare Moon": {
+            "salary": 55000,
+            "position": "Ruler",
+            "sex": "female"
+        }
+    }
+}

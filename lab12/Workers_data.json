@@ -1,0 +1,52 @@
+{
+    "Toph Beifong": {
+        "salary": 20000,
+        "position": "police officer",
+        "sex": "female"
+    },
+    "Jesus Christ": {
+        "salary": 40000,
+        "position": "God",
+        "sex": "male"
+    },
+    "Lady Gaga": {
+        "salary": 45000,
+        "position": "Singer",
+        "sex": "female"
+    },
+    "Oleh Vinnik": {
+        "salary": 10000,
+        "position": "Singe",
+        "sex": "male"
+    },
+    "Hatsune Miku": {
+        "salary": 45000,
+        "position": "Instrument",
+        "sex": "female"
+    },
+    "Pes Patron": {
+        "salary": 30000,
+        "position": "Hero",
+        "sex": "male"
+    },
+    "Stepan Vasiliyovich": {
+        "salary": 25000,
+        "position": "Psychologist",
+        "sex": "male"
+    },
+    "Remmi Rataulie": {
+        "salary": 18000,
+        "position": "Chef",
+        "sex": "male"
+    },
+    "Twighlight Sparkle": {
+        "salary": 50000,
+        "position": "Princess",
+        "sex": "female"
+    },
+    "Nightmare Moon": {
+        "salary": 55000,
+        "position": "Ruler",
+        "sex": "female"
+    }
+}
