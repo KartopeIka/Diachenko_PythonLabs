@@ -24,7 +24,7 @@ def add_worker(workers):
 
 def sort_workers(workers):
     workers = {k: workers[k] for k in sorted(workers)}
-    print("Sorted data:")
+    print("Sorted goods:")
     print_workers(workers)
 
 def find_max_salary_worker(workers):
